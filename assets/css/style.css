@@ -587,6 +587,11 @@ section {
 	filter: grayscale(100);
 }
 
+.clients .swiper-slide p {
+	text-align: center;
+	margin-top: 10px;
+}
+
 .clients .swiper-slide img:hover {
 	filter: none;
 	opacity: 1;
